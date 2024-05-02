@@ -1,38 +1,33 @@
 [
     {
-        "id" : 1,
-        "cover" : "rammstein.png",
-        "sound" : "Rammstein-Sonne.mp3",
-        "title" : "Rammstein Sonne",
-        "category" : "Metal"
+        "id": 1,
+        "cover" : "bonheur.jpg",
+        "sound" : "bonheur.mp3",
+        "title" : "Bonheur"
     },
     {
         "id" : 2,
-        "cover" : "rammstein.png",
-        "sound" : "Rammstein-Du-Hast.mp3",
-        "title" : "Rammstein Du Hast",
-        "category" : "Metal"
-    },
-    {
-        "id" : 3,
-        "cover" : "rammstein.png",
-        "sound" : "Dicke-Titten.mp3",
-        "title" : "Rammstein Dikken",
-        "category" : "Metal"
-    },
-    {
-        "id" : 4,
-        "cover" : "lorenzo.jpg",
-        "sound" : "Lorenzo-Je-vous-deteste-tous.mp3",
-        "title" : "Je vous déteste tous",
-        "category" : "Rap"
-    },
-    {
-        "id" : 5,
-        "cover" : "Another-Love.png",
-        "sound" : "Another-Love.mp3",
-        "title" : "Another Love",
-        "category" : "Calme"
-    }
+        "cover" : "burger.jpg",
+        "sound" : "burger.mp3",
+        "title" : "Burger "
 
+    },
+    {
+        "id": 3,
+        "cover" : "LaRoja.jpg",
+        "sound" : "LaRoja.mp3",
+        "title" : "La Roja"
+    },
+    {
+        "id": 4,
+        "cover" : "pedro.gif",
+        "sound" : "pedro.mp3",
+        "title" : "pedrooooooooo "
+    },
+    {
+        "id": 5,
+        "cover" : "ofond.jpeg",
+        "sound" : "ofond.mp3",
+        "title" : "On va la foutre au fond "
+    }
 ]
